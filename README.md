@@ -1,6 +1,9 @@
 ms-seo
 ======
 
+orbiter version:
+- fixing "can't getName on undefined" for 404 routes
+
 An SEO helper package for Meteor.js. Originally posted as an article here: [manuel-schoebel.com/blog/meteor-and-seo](http://www.manuel-schoebel.com/blog/meteor-and-seo "Meteor.js and SEO")
 
 Installation

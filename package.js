@@ -1,8 +1,8 @@
 Package.describe({
-  name: "manuelschoebel:ms-seo",
+  name: "orbiter:ms-seo",
   summary: "Easily config SEO for your routes",
-  git: "https://github.com/DerMambo/ms-seo.git",
-  version: "0.4.1"
+  git: "https://github.com/micktaiwan/ms-seo.git",
+  version: "0.4.2"
 });
 
 Package.onUse(function(api){
